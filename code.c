@@ -3,7 +3,7 @@
 
 int main
 {
-  printf("\nTest...\n");
+  printf("\nTest2...\n");
   system("cls");
   return 0;
 }
