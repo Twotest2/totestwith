@@ -11,3 +11,5 @@ another test
 using Brackets to push
 
 redoing it...
+
+brackets-git version 0.x
